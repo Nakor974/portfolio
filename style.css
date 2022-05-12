@@ -1,0 +1,106 @@
+html    {
+        background-color:rgb(216, 228, 213);}
+a {
+        text-decoration: none;
+        color: none;}
+p {
+        background-color: yellow;
+        font-family: 'Times New Roman', Times, serif; 
+        font-weight: bold;
+        font-size: large;}
+header {
+        background-color: green;}
+nav {
+        background-color: white;}
+#IVAN {
+        background-color: white;
+        color: blue;}
+#bienvenue {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        color: white;
+        background-color: blue;}
+.span2 {
+        color: orange;
+        position: relative;
+        bottom: 500;
+        left:400px;}    
+section {
+        background-color: gray;}
+#fond2 {
+        background-color: chocolate;}
+.retour {
+        color:red;
+        margin-left: 870px;
+        font-size: larger;}
+.présentation1 {
+        background-color: black;
+        color: orange;}
+#étranger {
+        background-color: orange;
+        color: black;}
+#OVERSEAS {
+    color: orange;
+}
+
+#REUNION {
+        color: green;}
+#la_réunion {
+        color: yellow;
+        background-color: green;}
+.photos_overseas1 {
+        display: flex ;
+        justify-content: space-around;
+        margin-top: 15px;}
+.photos_overseas2 {
+        display: flex ;
+        justify-content: space-around;
+        margin-bottom: 15px;}
+.présentation2 {
+        background-color: yellow;
+        color: green;}
+.photos_reunion1 {
+        display: flex ;
+        justify-content: space-around;
+        margin-bottom: 15px;}  
+.photos_reunion2 {
+        display: flex ;
+        justify-content: space-between;
+        margin-top: 15px;}
+.présentation3 {
+        background-color: lightblue;}
+#contact_me {
+        color: blue;}
+.span3{ 
+        color: green;
+        position: relative;
+        bottom: 500;
+        left:500px;}
+.span4{ 
+        position: relative;
+        bottom: 500;
+        left:630px; }
+#soleil {
+        width: 1000px;
+        height: 400px;
+        margin-left: 100px;}        
+.réseaux {
+        color: rgb(47, 10, 230);
+        display: flex;
+        justify-content: space-between;
+        }
+address {
+        color: none;}
+
+footer {
+        background-color: lightblue;}
+.au_revoir {
+        color: blue;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        font-size: larger;} 
+.bienvenue {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        font-size: larger;
+        color: rgb(90, 71, 71);}
